@@ -2,7 +2,8 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>contact page.</h3>
+    <h3>contact us</h3>
+    <img src="img/download.jpg" />
     <address>
         One Microsoft Way<br />
         Redmond, WA 98052-6399<br />
