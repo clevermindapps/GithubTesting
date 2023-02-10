@@ -4,7 +4,7 @@
 
     <div class="jumbotron">
         <h1>Github Testing</h1>
-        <p class="lead">c# is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+        <p class="lead">This is for rajasekhar is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
