@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>contact us</h3>
+    <h3>contact us on</h3>
     <img src="img/download.jpg" />
     <address>
         One Microsoft Way<br />
